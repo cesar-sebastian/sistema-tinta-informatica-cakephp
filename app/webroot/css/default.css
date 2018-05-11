@@ -1,0 +1,540 @@
+/*! css default del proyecto */
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/OpenSans-Regular-webfont.eot');
+    src: url('../fonts/OpenSans-Regular-webfont.eot?iefix') format('eot'),
+         url('../fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('../fonts/OpenSans-Semibold-webfont.eot');
+    src: url('../fonts/OpenSans-Semibold-webfont.eot?iefix') format('eot'),
+         url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('../fonts/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('../fonts/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.cargando {
+    position:absolute;
+    top:35%;
+    left:40%;
+    /*background: url(../img/cargando.gif) center center no-repeat;*/
+}
+.well {
+    z-index:100;
+}
+label.valid {
+    width: 24px;
+    height: 24px;
+    background: url(../img/valid.png) center center no-repeat;
+    display: inline-block;
+    text-indent: -9999px;
+}
+label.error {
+    font-weight: bold;
+    color: red;
+    padding: 2px 8px;
+    margin-top: 2px;
+}
+.form-control-feedback {
+    z-index:0;
+    right:25px;
+    top:0;
+}
+
+.check-green {
+  background-color: #7bd148;
+}
+.check-blue {
+  background-color: #a4bdfc;
+}
+.check-yellow {
+  background-color: #fbd75b;
+}
+.check-orange {
+  background-color: #ffb878;
+}
+.check-purple {
+  background-color: #dbadff;
+}
+.check-red {
+  background-color: #ff887c;
+}
+
+.bootstrap-checkbox > button.btn{
+    width:15px;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'open_sanssemibold';
+}
+
+body{
+    color: #666666;
+    font-family: 'open_sansregular', 'Open Sans', 'sans-serif';
+}
+
+.modal {
+    overflow-y: scroll;
+}
+.center {
+    text-align:center;
+}
+.clear {
+    clear:both;
+}
+a:hover,
+a:focus{
+    text-decoration: none;
+    color: #59a0de;
+    cursor:hand;
+    cursor:pointer;
+}
+.navbar-fixed-bottom a {
+    color:#333;
+    
+}
+
+.navbar-brand {
+    font-weight:bold;
+    font-size:22px;
+    
+}
+div.titulo h2{
+    margin: 0;
+    font-size: 36px;
+}
+
+div.logo{
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+
+div.secciones div.row a{
+    color: #666;
+}
+div.secciones div.row div{
+    margin-bottom: 20px;
+}
+div.secciones div.row{
+    text-align: center;
+}
+div.secciones h2{
+    font-size: 27px;
+}
+
+div.secciones .glyphicon{
+    color: #1e93c1;
+}
+
+.jumbotron{
+    padding: 35px 0;
+}
+
+
+.datos{
+    color: #428bca
+}
+
+
+.admin{
+    background-color: #428bca
+}
+
+
+
+.navbar-default .navbar-nav>li>a{
+    color: #fff
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus{
+    color: #fff;
+    background-color: #3174AF;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
+    background-color: #3174AF;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+    color: #fff;
+}
+
+.navbar-default .navbar-toggle{
+    background-color: #ccc;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a{
+    color: #fff;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus{
+    color: #fff;
+    background-color: #428BCA !important;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus{
+    background-color: #3174AF !important;
+}
+
+.navbar-nav > li > .dropdown-menu{
+    background-color: #3174AF;
+}
+
+.navbar-right{
+    margin: 0 15px;
+}
+.navbar .dropdown-menu{
+    border:none;
+    border-top: 1px solid #285F8F;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus{
+    color: #fff;
+}
+
+
+
+#RegistroIndicenteAddForm label sup{
+    color: #2D6A9F;
+    font-weight: normal;
+}
+
+.help-block{
+    color: #2D6A9F;
+}
+
+
+
+@media (max-width: 768px) {
+    div.titulo h2{
+        margin-top: 20px;
+        font-size: 30px;
+    }
+}
+@media (max-width: 992px) {
+    div.titulo h2{
+        margin-top: 20px;
+        font-size: 34px;
+    }
+}
+@media (min-width: 1200px) {
+
+}
+span.boton {
+    margin-right: 20px;
+    cursor:hand;
+    cursor:pointer;
+}
+.table-switch {
+    font-size:12px;
+    font-weight:normal;
+
+}
+div.jHtmlArea iframe {
+    width:98%;
+}    
+
+/* FRONT END */
+
+.cuadro-home {
+    width:900px; 
+    height:100%; 
+    border:1px solid #3492C1; 
+    margin:15px auto; 
+    text-align:center;   
+}
+.cuadro-pie {
+    border-top:5px solid #3492C1;
+    border-bottom:5px solid #3492C1;
+    border-left:0px
+    border-right:0px;
+    display:block;
+    width:100%;
+    padding:10px;
+    height:55px;
+    color:#3492C1;
+    font-weight:bold;
+    font-size:18px;
+}
+.img-izq {
+    width:50%;
+    padding:10px;
+    border-right:1px solid #3492C1;
+    float:left;
+}
+.img-der {
+    width:50%;
+    padding:10px;
+    float:right;
+}
+.linea {
+    clear:both;
+    border-bottom:1px solid #3492C1;
+    margin-bottom:10px;
+}
+.contenido {
+    padding:25px 10px;   
+}
+.numero {
+    height:28px;
+    width:24px;
+    background-color:#3492C1;
+    color:#fff;
+    float:left
+    ;vertical-align:middle;
+}
+.texto-der {
+    float:left;
+    vertical-align:middle;
+    color:#3492C1;
+    font-size:14px;
+    font-weight:bold;
+    text-align:left;
+}
+.texto-der h3 {
+    margin:0;
+}
+.pie {
+    clear:both;
+    height:144px;
+    /*background:url('/img/pie.png') no-repeat;*/ 
+}
+
+.panel-heading a:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+        /* adjust as needed, taken from bootstrap.css */
+    float: right;        /* adjust as needed */
+    color: grey;         /* adjust as needed */
+    font-size:26px;
+    content: "\e114";
+}
+.panel-heading a.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+    
+   
+}
+
+.cuadro_signo {
+    margin-top:10px;
+    background:url('/img/signo.png') no-repeat left 7px #DCD2E7;
+    height:68px;
+    padding:4px 4px 4px 30px;
+    color:#8155a1;
+    
+}
+
+.cuadro_leyenda {
+    margin-top:10px;
+    background:url('/img/estrella.png') no-repeat left top transparent;
+    padding:4px 4px 4px 30px;
+    color:#8155a1;
+    border:1px dashed #999;
+    text-align:left;
+}
+.cuadro_leyenda_pie {
+   position:relative;
+   bottom:0;
+   margin-top:20px;
+   margin-bottom:0;
+   padding-bottom:10px;
+   color:#999;
+}
+.cuadro_leyenda_pie h4 {
+    background-color: #aaa;
+    color: #ffffff;
+    margin: 0 0 10px;
+    padding: 10px;
+    text-align: left;
+    width:100%;
+}
+
+.cuadro_leyenda_pie div.texto {
+    padding:0 10px;
+}
+
+.cuadro_caso {
+    width: 35px;
+    padding:0 10px;
+    word-wrap: break-word; 
+    text-align: center;
+    background-color:#aaa;
+    color:#fff;
+    font-weight:bold;
+    font-size:20px;
+    position:absolute;
+    left:120px;
+    top:50px;
+}
+.panel-default > .color_tramite {
+    color:#4DC1BC;
+    border-left:5px solid #4DC1BC;
+    border-bottom:2px solid #4DC1BC;
+    border-right:2px solid #4DC1BC;
+}
+.color_tramite .accordion-toggle:after {
+    color:#4DC1BC;
+}
+.cuadro_tramite_titulo {
+    color:#4DC1BC;
+    border:1px solid #4DC1BC;
+}
+.cuadro_tramite_titulo h4 {
+    text-align:left;
+    background-color:#4DC1BC;
+    color:#FFFFFF;
+    padding:10px;
+    margin:0 0 10px;
+}
+.cuadro_tramite_cuerpo {
+    padding:10px;
+    color:#505356;
+    text-align:left;
+}
+.cuadro_datos_tramite {
+    width:100%;
+    border: 1px solid #505356;
+    padding:15px;
+}
+
+
+.panel-default > .color_documentos {
+    color:#8155A1;
+    border-left:5px solid #8155A1;
+    border-bottom:2px solid #8155A1;
+    border-right:2px solid #8155A1;
+}
+.color_documentos .accordion-toggle:after {
+    color:#8155A1;
+}
+.cuadro_documentos_titulo {
+    color:#8155A1;
+    border:1px solid #8155A1;
+}
+.cuadro_documentos_titulo h4 {
+    text-align:left;
+    background-color:#8155A1;
+    color:#FFFFFF;
+    padding:10px;
+    margin:0 0 10px;
+}
+.cuadro_documentos_cuerpo {
+    padding:10px;
+    color:#505356;
+    text-align:left;
+}
+.cuadro_datos_documentos {
+    width:100%;
+    border: 1px solid #505356;
+    padding:15px;
+}
+.cuadro_preguntas {
+    width:100%;
+    border: 1px solid #e92870;
+    padding:15px;
+    text-align:left;
+}
+.cuadro_preguntas .titulo {
+    color:#e92870;
+}
+.cuadro_datos_contacto {
+    display:block;
+    /*clear:both;*/
+    height:auto;
+    /*width:100%;*/
+    border: 1px solid #F37C34;
+    /*padding:15px;*/
+    text-align:left;
+}
+.cuadro_datos_contacto h4 {
+    text-align:left;
+    background-color:#F37C34;
+    color:#FFFFFF;
+    padding:10px;
+    margin:0 0 10px;
+}
+.cuadro_datos_contacto_texto {
+    padding:10px 20px;
+    color:#999999;
+    /*display:block;*/
+}
+
+.vineta {
+    background: url('../img/vineta.png') no-repeat;
+    color:#fff;
+    text-align:center;
+    width: 20px;
+    height: 21px;
+    font-size:16px;
+    display:inline-block;
+}
+.vineta2 {
+    background: url('../img/vineta2.png') no-repeat;
+    color:#fff;
+    text-align:center;
+    width: 20px;
+    height: 21px;
+    font-size:16px;
+    display:inline-block;
+    line-height:21px;
+    vertical-align:middle;
+}
+
+.ico-signo {
+    background: url('../img/ico_exclamacion.ico') no-repeat;
+    display: block;
+    height: 20px;
+    width: 14px;
+}
+
+.ico-estrella {
+    background: url('../img/ico_estrella.ico') no-repeat;
+    display: block;
+    height: 20px;
+    width: 14px;
+}
+
+.panel-default > .color_faq {
+    color:#E92870;
+    border-left:5px solid #E92870;
+    border-bottom:2px solid #E92870;
+    border-right:2px solid #E92870;
+}
+.color_faq .accordion-toggle:after {
+    color:#E92870;
+}
+.panel-default > .color_contacto {
+    color:#F47D33;
+    border-left:5px solid #F47D33;
+    border-bottom:2px solid #F47D33;
+    border-right:2px solid #F47D33;
+}
+.color_contacto .accordion-toggle:after {
+    color:#F47D33;
+}
+
+.accordion-inner {
+    padding:20px;
+    
+}
+.panel-heading {
+    text-align:left;
+}
+
+.nav-tabs > li > a.has-error {
+    color:red;
+}

@@ -1,0 +1,1041 @@
+2015-11-03 13:54:21 Error: [NotFoundException] El usuario no tiene permiso para acceder a la funcionalidad requerida.
+Request URL: /
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/Component/PermisosComponent.php(40): PermisosComponent->Verificar()
+#1 [internal function]: PermisosComponent->initialize(Object(RbacUsuariosController))
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#3 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(674): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(182): Controller->startupProcess()
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/index.php(43): require('/home/tintainfo...')
+#10 {main}
+2015-11-03 13:57:42 Error: [NotFoundException] El usuario no tiene permiso para acceder a la funcionalidad requerida.
+Request URL: /
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/Component/PermisosComponent.php(40): PermisosComponent->Verificar()
+#1 [internal function]: PermisosComponent->initialize(Object(RbacUsuariosController))
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#3 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(674): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(182): Controller->startupProcess()
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/index.php(43): require('/home/tintainfo...')
+#10 {main}
+2015-11-03 13:58:13 Error: [NotFoundException] El usuario no tiene permiso para acceder a la funcionalidad requerida.
+Request URL: /
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/Component/PermisosComponent.php(40): PermisosComponent->Verificar()
+#1 [internal function]: PermisosComponent->initialize(Object(RbacUsuariosController))
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#3 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(674): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(182): Controller->startupProcess()
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/index.php(43): require('/home/tintainfo...')
+#10 {main}
+2015-11-03 13:58:37 Error: [NotFoundException] El usuario no tiene permiso para acceder a la funcionalidad requerida.
+Request URL: /
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/Component/PermisosComponent.php(40): PermisosComponent->Verificar()
+#1 [internal function]: PermisosComponent->initialize(Object(RbacUsuariosController))
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#3 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(674): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(182): Controller->startupProcess()
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/index.php(43): require('/home/tintainfo...')
+#10 {main}
+2015-11-03 14:03:00 Error: [NotFoundException] El usuario no tiene permiso para acceder a la funcionalidad requerida.
+Request URL: /
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/Component/PermisosComponent.php(40): PermisosComponent->Verificar()
+#1 [internal function]: PermisosComponent->initialize(Object(RbacUsuariosController))
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#3 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(674): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(182): Controller->startupProcess()
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/index.php(43): require('/home/tintainfo...')
+#10 {main}
+2015-11-09 00:01:02 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '03352KDN4R1501065112000050'
+OR
+producto.descripcion like '%BA59'03352KDN4R1501' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('BA59'03352KDN4R...')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-11-09 00:01:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 00:45:41 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Disco notebook 500 GB' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-11-10 00:45:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 00:45:48 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Disco notebook 500 GB' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-11-10 00:45:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 00:46:39 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Disco notebook 500 GB' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-11-10 00:46:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 00:53:10 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Disco notebook 500 GB' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-11-10 00:53:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-17 00:50:59 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2262'
+OR
+producto.descripcion like '%0957'2262%'
+OR 
+marca.nombre like '%095' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('0957'2262')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-11-17 00:51:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-30 15:23:50 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '92966003'F'
+OR
+producto.descripcion like '%P'92966003'F%'
+OR 
+marca.nombre l' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('P'92966003'F')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-11-30 15:23:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-28 21:31:07 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '92966003'F'
+OR
+producto.descripcion like '%P'92966003'F%'
+OR 
+marca.nombre l' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('P'92966003'F')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 21:31:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-02 14:16:15 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '92966003'F'
+OR
+producto.descripcion like '%P'92966003'F%'
+OR 
+marca.nombre l' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('P'92966003'F')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-01-02 14:16:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 17:08:37 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '92966003'F'
+OR
+producto.descripcion like '%P'92966003'F%'
+OR 
+marca.nombre l' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('P'92966003'F')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-01-04 17:08:39 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '92966003'F'
+OR
+producto.descripcion like '%P'92966003'F%'
+OR 
+marca.nombre l' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('P'92966003'F')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-01-04 17:08:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-10 23:49:29 Error: [PDOException] SQLSTATE[HY000]: General error: 1018 Can't read dir of './tintainf_sistema/' (errno: 24)
+Request URL: /rbac/rbac_usuarios/login/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(215): DboSource->_execute('SHOW TABLES FRO...')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1132): Mysql->listSources()
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3498): Model->setSource('configuracion')
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(800): Model->getDataSource()
+#5 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Model->__call('findByClave', Array)
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Configuracion->findByClave('captcha')
+#7 [internal function]: RbacUsuariosController->login()
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-02-10 23:51:12 Warning: Warning (2): PDO::__construct(): MySQL server has gone away in [/home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php, line 175]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 175
+DboSource::__construct() - CORE/Cake/Model/Datasource/DboSource.php, line 260
+ConnectionManager::getDataSource() - CORE/Cake/Model/ConnectionManager.php, line 105
+Model::setDataSource() - CORE/Cake/Model/Model.php, line 3476
+Model::setSource() - CORE/Cake/Model/Model.php, line 1126
+Model::getDataSource() - CORE/Cake/Model/Model.php, line 3498
+Model::__call() - CORE/Cake/Model/Model.php, line 800
+Configuracion::findByClave() - APP/Plugin/Rbac/Controller/RbacUsuariosController.php, line 173
+RbacUsuariosController::login() - APP/Plugin/Rbac/Controller/RbacUsuariosController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-02-10 23:51:12 Warning: Warning (2): PDO::__construct() [<a href='http://php.net/pdo.construct'>pdo.construct</a>]: Error while reading greeting packet. PID=1008 in [/home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php, line 175]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 175
+DboSource::__construct() - CORE/Cake/Model/Datasource/DboSource.php, line 260
+ConnectionManager::getDataSource() - CORE/Cake/Model/ConnectionManager.php, line 105
+Model::setDataSource() - CORE/Cake/Model/Model.php, line 3476
+Model::setSource() - CORE/Cake/Model/Model.php, line 1126
+Model::getDataSource() - CORE/Cake/Model/Model.php, line 3498
+Model::__call() - CORE/Cake/Model/Model.php, line 800
+Configuracion::findByClave() - APP/Plugin/Rbac/Controller/RbacUsuariosController.php, line 173
+RbacUsuariosController::login() - APP/Plugin/Rbac/Controller/RbacUsuariosController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-02-10 23:51:12 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2006] MySQL server has gone away',
+  'enabled' => true,
+)
+Request URL: /rbac/rbac_usuarios/login/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3476): ConnectionManager::getDataSource('default')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1126): Model->setDataSource('default')
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3498): Model->setSource('configuracion')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(800): Model->getDataSource()
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Model->__call('findByClave', Array)
+#7 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Configuracion->findByClave('captcha')
+#8 [internal function]: RbacUsuariosController->login()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-02-10 23:51:12 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Connection refused',
+  'enabled' => true,
+)
+Request URL: /rbac/rbac_usuarios/login/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3476): ConnectionManager::getDataSource('default')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1126): Model->setDataSource('default')
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3498): Model->setSource('configuracion')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(800): Model->getDataSource()
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Model->__call('findByClave', Array)
+#7 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Configuracion->findByClave('captcha')
+#8 [internal function]: RbacUsuariosController->login()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-02-10 23:51:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-10 23:51:13 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3476): ConnectionManager::getDataSource('default')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1126): Model->setDataSource('default')
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3498): Model->setSource('configuracion')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(800): Model->getDataSource()
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Model->__call('findByClave', Array)
+#7 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(173): Configuracion->findByClave('captcha')
+#8 [internal function]: RbacUsuariosController->login()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-02-17 13:11:24 Warning: Warning (2): Error while sending QUERY packet. PID=28532 in [/home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php, line 458]
+Trace:
+PDOStatement::execute() - [internal], line ??
+DboSource::_execute() - CORE/Cake/Model/Datasource/DboSource.php, line 458
+Mysql::describe() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 331
+Model::schema() - CORE/Cake/Model/Model.php, line 1358
+DboSource::fields() - CORE/Cake/Model/Datasource/DboSource.php, line 2293
+DboSource::generateAssociationQuery() - CORE/Cake/Model/Datasource/DboSource.php, line 1522
+DboSource::queryAssociation() - CORE/Cake/Model/Datasource/DboSource.php, line 1187
+DboSource::queryAssociation() - CORE/Cake/Model/Datasource/DboSource.php, line 1291
+DboSource::read() - CORE/Cake/Model/Datasource/DboSource.php, line 1112
+Model::_readDataSource() - CORE/Cake/Model/Model.php, line 2902
+Model::find() - CORE/Cake/Model/Model.php, line 2874
+RbacUsuariosController::login() - APP/Plugin/Rbac/Controller/RbacUsuariosController.php, line 192
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-02-17 13:11:28 Error: [PDOException] SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Request URL: /rbac/rbac_usuarios/login/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(RbacAccion))
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1522): DboSource->fields(Object(RbacAccion), 'RbacAccion', '')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1187): DboSource->generateAssociationQuery(Object(RbacPerfil), Object(RbacAccion), 'hasAndBelongsTo...', 'RbacAccion', Array, Array, true, Array)
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1291): DboSource->queryAssociation(Object(RbacPerfil), Object(RbacAccion), 'hasAndBelongsTo...', 'RbacAccion', Array, Array, true, Array, 0, Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1112): DboSource->queryAssociation(Object(RbacUsuario), Object(RbacPerfil), 'belongsTo', 'PerfilDefault', Array, Array, true, Array, 1, Array)
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2902): DboSource->read(Object(RbacUsuario), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2874): Model->_readDataSource('all', Array)
+#10 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(192): Model->find('all', Array)
+#11 [internal function]: RbacUsuariosController->login()
+#12 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#13 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#14 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#15 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-02-17 13:11:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-04 13:53:14 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '|1567890'%'
+OR 
+marca.nombre like '%|1567890'%'
+OR
+producto_tipo.nombre like' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('|1567890'')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-04-04 13:53:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-06 18:30:20 Warning: Warning (2): Error while sending QUERY packet. PID=26440 in [/home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php, line 458]
+Trace:
+PDOStatement::execute() - [internal], line ??
+DboSource::_execute() - CORE/Cake/Model/Datasource/DboSource.php, line 458
+Mysql::describe() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 331
+Model::schema() - CORE/Cake/Model/Model.php, line 1358
+DboSource::fields() - CORE/Cake/Model/Datasource/DboSource.php, line 2293
+DboSource::read() - CORE/Cake/Model/Datasource/DboSource.php, line 1047
+Model::_readDataSource() - CORE/Cake/Model/Model.php, line 2902
+Model::find() - CORE/Cake/Model/Model.php, line 2874
+RbacUsuariosController::login() - APP/Plugin/Rbac/Controller/RbacUsuariosController.php, line 192
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-04-06 18:30:21 Error: [PDOException] SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Request URL: /rbac/rbac_usuarios/login/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(RbacUsuario))
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(RbacUsuario))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2902): DboSource->read(Object(RbacUsuario), Array)
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2874): Model->_readDataSource('all', Array)
+#7 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(192): Model->find('all', Array)
+#8 [internal function]: RbacUsuariosController->login()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-04-18 14:23:54 Warning: Warning (2): Error while sending QUERY packet. PID=443 in [/home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php, line 458]
+Trace:
+PDOStatement::execute() - [internal], line ??
+DboSource::_execute() - CORE/Cake/Model/Datasource/DboSource.php, line 458
+Mysql::describe() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 331
+Model::schema() - CORE/Cake/Model/Model.php, line 1358
+DboSource::fields() - CORE/Cake/Model/Datasource/DboSource.php, line 2293
+DboSource::read() - CORE/Cake/Model/Datasource/DboSource.php, line 1047
+Model::_readDataSource() - CORE/Cake/Model/Model.php, line 2902
+Model::find() - CORE/Cake/Model/Model.php, line 2874
+DboSource::query() - CORE/Cake/Model/Datasource/DboSource.php, line 597
+Model::__call() - CORE/Cake/Model/Model.php, line 800
+Producto::findById() - APP/Controller/AdminController.php, line 71
+AdminController::producto() - APP/Controller/AdminController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-04-18 14:23:57 Error: [PDOException] SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Request URL: /admin/producto/5
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(Producto))
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(Producto))
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2902): DboSource->read(Object(Producto), Array)
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2874): Model->_readDataSource('first', Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(800): DboSource->query('findById', Array, Object(Producto))
+#9 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(71): Model->__call('findById', Array)
+#10 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(71): Producto->findById('5')
+#11 [internal function]: AdminController->producto('5')
+#12 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#13 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#14 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#15 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-11 15:56:37 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Cartucho alternativo NH-00074XL black' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-05-11 15:56:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-30 22:09:07 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Auricular In Ear Overtech Rave 1 Cable C/cierre' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-06-30 22:09:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-10 15:08:34 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Cartucho alternativo Epson NE-T1331 BK' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-08-10 15:08:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-22 23:31:09 Error: [MissingViewException] View file "/home/tintainformatica/public_html/sistema/app/View/Emails/html/recuperar_contrasenia.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/home/tintainformatica/public_html/sistema/app/View/Emails/html/recuperar_contrasenia.ctp',
+)
+Request URL: /rbac/rbac_usuarios/recuperar/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/View/View.php(463): View->_getViewFileName('recuperar_contr...')
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1653): View->render('recuperar_contr...', 'default')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1510): CakeEmail->_renderTemplates('')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1120): CakeEmail->_render(Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Component/EmailComponent.php(345): CakeEmail->send(NULL)
+#5 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(549): EmailComponent->send()
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(445): RbacUsuariosController->_sendEmail(Array)
+#7 [internal function]: RbacUsuariosController->recuperar()
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-08-22 23:31:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-22 23:31:30 Error: [MissingViewException] View file "/home/tintainformatica/public_html/sistema/app/View/Emails/html/recuperar_contrasenia.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/home/tintainformatica/public_html/sistema/app/View/Emails/html/recuperar_contrasenia.ctp',
+)
+Request URL: /rbac/rbac_usuarios/recuperar/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/View/View.php(463): View->_getViewFileName('recuperar_contr...')
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1653): View->render('recuperar_contr...', 'default')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1510): CakeEmail->_renderTemplates('')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1120): CakeEmail->_render(Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Component/EmailComponent.php(345): CakeEmail->send(NULL)
+#5 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(549): EmailComponent->send()
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(445): RbacUsuariosController->_sendEmail(Array)
+#7 [internal function]: RbacUsuariosController->recuperar()
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-08-22 23:31:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-22 23:32:40 Error: [MissingViewException] View file "/home/tintainformatica/public_html/sistema/app/View/Emails/html/recuperar_contrasenia.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/home/tintainformatica/public_html/sistema/app/View/Emails/html/recuperar_contrasenia.ctp',
+)
+Request URL: /rbac/rbac_usuarios/recuperar/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/View/View.php(463): View->_getViewFileName('recuperar_contr...')
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1653): View->render('recuperar_contr...', 'default')
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1510): CakeEmail->_renderTemplates('')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Network/Email/CakeEmail.php(1120): CakeEmail->_render(Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Component/EmailComponent.php(345): CakeEmail->send(NULL)
+#5 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(549): EmailComponent->send()
+#6 /home/tintainformatica/public_html/sistema/app/Plugin/Rbac/Controller/RbacUsuariosController.php(445): RbacUsuariosController->_sendEmail(Array)
+#7 [internal function]: RbacUsuariosController->recuperar()
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RbacUsuariosController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(RbacUsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-08-22 23:32:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-23 01:36:44 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'B83006191001599'
+OR
+producto.descripcion like '%EUTK'B83006191001599%'
+OR 
+m' at line 5
+Request URL: /admin/index/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT *\r\nFROM ...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('SELECT *\r\nFROM ...', Array, Array)
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('SELECT *\r\nFROM ...')
+#4 [internal function]: DboSource->query('SELECT *\r\nFROM ...')
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(3306): call_user_func_array(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Model/Producto.php(35): Model->query('SELECT *\r\nFROM ...')
+#7 /home/tintainformatica/public_html/sistema/app/Controller/AdminController.php(18): Producto->findByCriteria('EUTK'B830061910...')
+#8 [internal function]: AdminController->index()
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-11-23 01:36:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-07 00:20:05 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Mouse mini inalambrico' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-01-07 00:20:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-07 00:21:24 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Mouse mini inalambrico' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-01-07 00:21:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-16 19:03:04 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TONER ALTERNATIVO HP NT-GC0436C NT-GC0285C NT-GC0435C' for key 'Unicidad'
+Request URL: /producto/editar/290
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('UPDATE `tintain...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(400): DboSource->execute('UPDATE `tintain...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1821): Mysql->update(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2392): Model->save(Array, Array)
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2178): Model->saveAssociated(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(101): Model->saveAll(Array)
+#7 [internal function]: ProductoController->editar('290')
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-16 19:03:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-16 19:03:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TONER ALTERNATIVO HP NT-GC0436C NT-GC0285C NT-GC0435C' for key 'Unicidad'
+Request URL: /producto/editar/290
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('UPDATE `tintain...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(400): DboSource->execute('UPDATE `tintain...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1821): Mysql->update(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2392): Model->save(Array, Array)
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2178): Model->saveAssociated(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(101): Model->saveAll(Array)
+#7 [internal function]: ProductoController->editar('290')
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-16 19:03:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-16 19:04:36 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TONER ALTERNATIVO HP NT-GC0436C NT-GC0285C NT-GC0435C' for key 'Unicidad'
+Request URL: /producto/editar/290
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('UPDATE `tintain...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(400): DboSource->execute('UPDATE `tintain...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1821): Mysql->update(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2392): Model->save(Array, Array)
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2178): Model->saveAssociated(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(101): Model->saveAll(Array)
+#7 [internal function]: ProductoController->editar('290')
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-16 19:04:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-16 19:05:22 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TONER ALTERNATIVO HP NT-GC0436C NT-GC0285C NT-GC0435C' for key 'Unicidad'
+Request URL: /producto/editar/290
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('UPDATE `tintain...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(400): DboSource->execute('UPDATE `tintain...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1821): Mysql->update(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2392): Model->save(Array, Array)
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2178): Model->saveAssociated(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(101): Model->saveAll(Array)
+#7 [internal function]: ProductoController->editar('290')
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-16 19:05:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-16 19:06:00 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TONER ALTERNATIVO HP NT-GC0436C NT-GC0285C NT-GC0435C' for key 'Unicidad'
+Request URL: /producto/editar/290
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('UPDATE `tintain...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/Database/Mysql.php(400): DboSource->execute('UPDATE `tintain...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1821): Mysql->update(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2392): Model->save(Array, Array)
+#5 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(2178): Model->saveAssociated(Array, Array)
+#6 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(101): Model->saveAll(Array)
+#7 [internal function]: ProductoController->editar('290')
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#9 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-16 19:06:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-28 14:54:37 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mouse mini inalambrico' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-06-28 14:54:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-28 14:56:07 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mouse mini inalambrico' for key 'Unicidad'
+Request URL: /producto/add/
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `ti...')
+#3 /home/tintainformatica/public_html/sistema/lib/Cake/Model/Model.php(1832): DboSource->create(Object(Producto), Array, Array)
+#4 /home/tintainformatica/public_html/sistema/app/Controller/ProductoController.php(64): Model->save(Array)
+#5 [internal function]: ProductoController->add()
+#6 /home/tintainformatica/public_html/sistema/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductoController), Array)
+#7 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /home/tintainformatica/public_html/sistema/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ProductoController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-06-28 14:56:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /home/tintainformatica/public_html/sistema/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

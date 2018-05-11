@@ -1,0 +1,74 @@
+msgid "SELECCIONAR"
+msgstr "SELECT YOUR COUNTRY OF NATIONALITY"
+
+msgid "ESTAS_ARGENTINA"
+msgstr "ARE YOU IN ARGENTINA?"
+
+msgid "TEXTO_ARGENTINA"
+msgstr "If you are in the Argentine Republic, you must apply in person at the offices of the National Direction of Migration."
+
+msgid "GESTION_VISA"
+msgstr "GET A VISA"
+
+msgid "ESTUDIO_CARRERA"
+msgstr "TO STUDY AT AN ARGENTINA UNIVERSITY"
+
+msgid "TRAMITE"
+msgstr "WHERE TO APPLY FOR THE VISA?"
+
+msgid "DOCUMENTOS"
+msgstr "WHAT DOCUMENTS ARE REQUIRED?"
+
+msgid "PREGUNTAS_FRECUENTES"
+msgstr "FAQ / HELPFUL INFORMATION"
+
+msgid "DATOS_CONTACTO"
+msgstr "CONTACT DATA"
+
+msgid "SELECCIONASTE"
+msgstr "Selected country:"
+
+msgid "FUERA_ARGENTINA"
+msgstr "IF YOU ARE OUTSIDE OF ARGENTINA"
+
+msgid "DENTRO_ARGENTINA"
+msgstr "IF YOU ARE IN ARGENTINA"
+
+msgid "SUBTITULO_TRAMITE"
+msgstr "Go in person to the Argentine Consulate or Embassy in your city of residence."
+
+msgid "CONSULADO_DISPONIBLE"
+msgstr "Consulates available in"
+
+msgid "SELECCIONAR_TRAMITE"
+msgstr "Select the appropriate for location and contact details"
+
+msgid "SEDES_MIGRACIONES"
+msgstr "In person at the offices of the National Direction of Migration:"
+
+msgid "PRESENTAR_CONSULADO"
+msgstr "TO PRESENT AT THE CONSULATE"
+
+msgid "PRESENTAR_UNIVERSIDADES"
+msgstr "AT UNIVERSITIES AND BEFORE THE ARGENTINE MINISTRY OF EDUCATION"
+
+msgid "CONCURRIR_PERSONALMENTE"
+msgstr "THE APPLICATION MUST BE SUBMITTED IN PERSON."
+
+msgid "CONV_HAYA"
+msgstr "is a State signatory to the Hague Convention"
+
+msgid "OFERTA"
+msgstr "ACADEMIC OFFER"
+
+msgid "VIVIR"
+msgstr "LIVING IN ARGENTINA"
+
+msgid "VOLVER"
+msgstr "GO BACK"
+
+msgid "SEL_PAIS"
+msgstr "Select a country"
+
+msgid "SEL_CIUDAD"
+msgstr "Select a city"

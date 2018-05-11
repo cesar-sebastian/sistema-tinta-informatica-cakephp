@@ -1,0 +1,74 @@
+msgid "SELECCIONAR"
+msgstr "ESCOLHA SEU PAIS DE NACIONALIDADE"
+
+msgid "ESTAS_ARGENTINA"
+msgstr "ESTÁ NA ARGENTINA?"
+
+msgid "TEXTO_ARGENTINA"
+msgstr "Se estiver na República Argentina deve iniciar o trâmite pessoalmente em sedes da Direção Nacional de Migrações."
+
+msgid "GESTION_VISA"
+msgstr "OBTENHA SEU VISTO"
+
+msgid "ESTUDIO_CARRERA"
+msgstr "PARA FREQUENTAR UM CURSO UNIVERSITÁRIO NA ARGENTINA"
+
+msgid "TRAMITE"
+msgstr "ONDE INICIO O TRÂMITE?"
+
+msgid "DOCUMENTOS"
+msgstr "DE QUE DOCUMENTOS PRECISO?"
+
+msgid "PREGUNTAS_FRECUENTES"
+msgstr "PERGUNTAS FREQUENTES / INFORMAÇÃO ÚTIL"
+
+msgid "DATOS_CONTACTO"
+msgstr "DADOS DE CONTATO"
+
+msgid "SELECCIONASTE"
+msgstr "Selecionou:"
+
+msgid "FUERA_ARGENTINA"
+msgstr "SE ESTIVER FORA DA REPUBLICA ARGENTINA"
+
+msgid "DENTRO_ARGENTINA"
+msgstr "SE ESTIVER NA REPUBLICA ARGENTINA"
+
+msgid "SUBTITULO_TRAMITE"
+msgstr "Dirija-se ao Consulado ou Embaixada Argentina mais próxima da sua localização."
+
+msgid "CONSULADO_DISPONIBLE"
+msgstr "Consulados disponíveis em"
+
+msgid "SELECCIONAR_TRAMITE"
+msgstr "Selecione o correspondente para ver sua localização e dados de contato"
+
+msgid "SEDES_MIGRACIONES"
+msgstr "Comparecer pessoalmente em sedes da Direção Nacional de Migrações:"
+
+msgid "PRESENTAR_CONSULADO"
+msgstr "PARA APRESENTAR NO CONSULADO"
+
+msgid "PRESENTAR_UNIVERSIDADES"
+msgstr "PARA APRESENTAR EM UNIVERSIDADES E NO MINISTÉRIO DA EDUCAÇÃO NA ARGENTINA"
+
+msgid "CONCURRIR_PERSONALMENTE"
+msgstr "É NECESSÁRIO COMPARECER PESSOALMENTE"
+
+msgid "CONV_HAYA"
+msgstr "é membro da Convenção da Haia."
+
+msgid "OFERTA"
+msgstr "OFERTA ACADEMICA"
+
+msgid "VIVIR"
+msgstr "MORAR NA ARGENTINA"
+
+msgid "VOLVER"
+msgstr "VOLTE"
+
+msgid "SEL_PAIS"
+msgstr "Escolha um país"
+
+msgid "SEL_CIUDAD"
+msgstr "Escolha uma cidade"

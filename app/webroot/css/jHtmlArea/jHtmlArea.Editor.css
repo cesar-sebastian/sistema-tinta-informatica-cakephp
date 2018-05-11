@@ -1,0 +1,11 @@
+﻿body 
+{
+    background: #fff;
+    color: #333;
+    margin: 2px;
+	overflow:hide;
+	font-family:'Helvetica';
+	font-size:12px;
+	width:98%;
+	overflow-x:none;
+}

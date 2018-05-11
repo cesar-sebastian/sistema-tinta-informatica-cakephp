@@ -1,0 +1,19 @@
+#tintainformatica
+<VirtualHost *:80>
+	ServerName   tintainformatica.cyc
+	DocumentRoot	"c:/wamp/www/tintainformatica/app/webroot"
+	DirectoryIndex index.html index.htm index.php		
+	
+	#ErrorLog  "c:/wamp/www/tintainformatica/log/error.log"
+    #CustomLog "c:/wamp/www/tintainformatica/log/access.log" combined
+    #php_value error_log "c:/wamp/www/tintainformatica/log/php_error.log"	
+	
+	<Directory "c:/wamp/www/tintainformatica/app/webroot/">
+        AllowOverride All
+        Options None FollowSymLinks
+       # RewriteEngine on
+        Order allow,deny
+        Allow from all 
+        php_value include_path ".;c:/wamp/www/tintainformatica/config/;"
+    </Directory>	
+</VirtualHost>

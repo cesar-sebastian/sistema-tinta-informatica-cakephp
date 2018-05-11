@@ -1,0 +1,74 @@
+msgid "SELECCIONAR"
+msgstr "CHOISIS LE PAYS DE TA NATIONALITÉ"
+
+msgid "ESTAS_ARGENTINA"
+msgstr "TU VOUS ÊTES EN ARGENTINE?"
+
+msgid "TEXTO_ARGENTINA"
+msgstr "Si vous êtes dans la République Argentine, vous devez vous te rendre en personne pour déposer votre dossier dans l’un des bureaux de la Direction nationale des migrations."
+
+msgid "GESTION_VISA"
+msgstr "OBTIENS TON VISA"
+
+msgid "ESTUDIO_CARRERA"
+msgstr "POUR FAIRE DES ÉTUDES UNIVERSITAIRES EN ARGENTINE"
+
+msgid "TRAMITE"
+msgstr "PAR OÙ COMMENCER?"
+
+msgid "DOCUMENTOS"
+msgstr "QUELS DOCUMENTS FOURNIR?"
+
+msgid "PREGUNTAS_FRECUENTES"
+msgstr "FAQ FOIRE AUX QUESTIONS / INFORMATIONS UTILES"
+
+msgid "DATOS_CONTACTO"
+msgstr "COORDONNÉES DE CONTACT"
+
+msgid "SELECCIONASTE"
+msgstr "Tu as choisi:"
+
+msgid "FUERA_ARGENTINA"
+msgstr "SI VOUS N'ÊTES DANS LA RÉPUBLIQUE ARGENTINE"
+
+msgid "DENTRO_ARGENTINA"
+msgstr "SI VOUS ÊTES DANS LA RÉPUBLIQUE ARGENTINE"
+
+msgid "SUBTITULO_TRAMITE"
+msgstr "Tu n’as qu’à t’adresser au Consulat ou à l’Ambassade d’Argentine correspondant à votre lieu de résidence"
+
+msgid "CONSULADO_DISPONIBLE"
+msgstr "Consulats disponibles en"
+
+msgid "SELECCIONAR_TRAMITE"
+msgstr "Choisissez l’option correspondante afin d’en voir l’adresse et les coordonnées de contact"
+
+msgid "SEDES_MIGRACIONES"
+msgstr "En personne, dans l’un des bureaux de la Direction nationale des migrations:"
+
+msgid "PRESENTAR_CONSULADO"
+msgstr "POUR PRODUIRE AU CONSULAT"
+
+msgid "PRESENTAR_UNIVERSIDADES"
+msgstr "POUR PRODUIRE À L’UNIVERSITÉ ET AU MINISTÈRE DE L’ÉDUCATION EN ARGENTINE"
+
+msgid "CONCURRIR_PERSONALMENTE"
+msgstr "IL FAUT S’Y RENDRE EN PERSONNE"
+
+msgid "CONV_HAYA"
+msgstr "est un État membre de la Convention de La Haye"
+
+msgid "OFERTA"
+msgstr "OFFRE ACADÉMIQUE"
+
+msgid "VIVIR"
+msgstr "VIVRE EN ARGENTINE"
+
+msgid "VOLVER"
+msgstr "REVIENS"
+
+msgid "SEL_PAIS"
+msgstr "Sélectionnez un pays"
+
+msgid "SEL_CIUDAD"
+msgstr "Sélectionnez une ville"

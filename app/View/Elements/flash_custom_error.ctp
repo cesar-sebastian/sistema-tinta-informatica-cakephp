@@ -1,0 +1,1 @@
+<div class="alert alert-danger" style="margin-top: 10px;"><?php echo h($message); ?></div>
